@@ -1,19 +1,23 @@
-```text
- _____     _             _
-|_   _|__ | | ___ _   _ (_)
-  | |/ _ \| |/ / | | | || |
-  | | (_) |   <| |_| | || |
-  |_|\___/|_|\_\\__,_|_||_|
-```
-A lightweight TUI for real-time OpenAI token counting and text editing.
+<div align="center">
+  <kbd>
+    <br/>
+     _____     _             _
+    |_   _|__ | | ___ _   _ (_)
+      | |/ _ \| |/ / | | | || |
+      | | (_) |   <| |_| | || |
+      |_|\___/|_|\_\\__,_|_||_|
+    <br/>
+    <br/>
+  </kbd>
+</div>
+A blazing fast TUI scratchpad for real-time LLM token counting, built on Go with Bubble Tea and Lipgloss. 
 
 ### Features
 - Real-time token counting using the `cl100k_base` encoding (GPT-4).
 - File browser to check the token counts of files in the directory.
-- Built on Go, with Bubble Tea and Lipgloss.
 
 ### Showcase
-![Tokui Screenshot](screenshot.png)
+![Tokui Screenshot](https://github.com/axshb/tokui/blob/main/DOCS/screenshot.png)
 
 ### Keybinds
 - Tab / Shift+Arrows: Cycle focus between Sidebar and Editor.
@@ -32,3 +36,10 @@ Using Go:
 Using Nix:
 1. `nix develop` (enters a shell with dependencies)
 2. `go run .`
+
+### Commit Rules
+
+- chore: for maintenance, build process changes, tooling, etc.
+- docs: for documentation changes
+- feat: for features
+- fix: for bugfixes/optimizations.

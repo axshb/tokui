@@ -5,7 +5,7 @@
   | | (_) |   <| |_| | || |
   |_|\___/|_|\_\\__,_|_||_|
   ```
-A blazing fast TUI scratchpad for real-time LLM token counting, built on Go with Bubble Tea and Lipgloss. 
+<h1 align="center">TokUI</h1><p align="center">A blazing fast TUI scratchpad for real-time LLM token counting, built on Go with Bubble Tea and Lipgloss.</p>
 
 ### Features
 - Real-time token counting using the `cl100k_base` encoding (GPT-4).

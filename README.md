@@ -1,15 +1,10 @@
-<div align="center">
-  <kbd>
-    <br/>
-     _____     _             _
-    |_   _|__ | | ___ _   _ (_)
-      | |/ _ \| |/ / | | | || |
-      | | (_) |   <| |_| | || |
-      |_|\___/|_|\_\\__,_|_||_|
-    <br/>
-    <br/>
-  </kbd>
-</div>
+```
+ _____     _             _
+|_   _|__ | | ___ _   _ (_)
+  | |/ _ \| |/ / | | | || |
+  | | (_) |   <| |_| | || |
+  |_|\___/|_|\_\\__,_|_||_|
+  ```
 A blazing fast TUI scratchpad for real-time LLM token counting, built on Go with Bubble Tea and Lipgloss. 
 
 ### Features

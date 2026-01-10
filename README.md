@@ -16,7 +16,7 @@
 ### Installation & Development
 
 Using Go:
-1. `git clone https://github.com/yourusername/tokui.git`
+1. `git clone https://github.com/axshb/tokui.git`
 2. `cd tokui`
 3. `go mod tidy`
 4. `go run .`

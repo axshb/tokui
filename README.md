@@ -1,10 +1,3 @@
-```
- _____     _             _
-|_   _|__ | | ___ _   _ (_)
-  | |/ _ \| |/ / | | | || |
-  | | (_) |   <| |_| | || |
-  |_|\___/|_|\_\\__,_|_||_|
-  ```
 <h1 align="center">TokUI</h1><p align="center">A blazing fast TUI scratchpad for real-time LLM token counting, built on Go with Bubble Tea and Lipgloss.</p>
 
 ### Features
